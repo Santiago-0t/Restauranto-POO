@@ -1,0 +1,13 @@
+{
+  "name": "sistema-restaurante-utils",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Sistema modular con utils separados - ES Modules",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+    },
+  "keywords": ["poo", "javascript", "restaurante", "modular", "utils"],
+  "author": "Estudiante Universitario",
+  "license": "MIT"
+}
