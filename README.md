@@ -1,6 +1,4 @@
-# 🍽️ Sistema de Pedidos - Versión con Utils Separados
-
-**Proyecto universitario** con **ES Modules**, **métodos auxiliares** y **utils completamente separados**
+# 🍽️ Sistema de Pedidos
 
 ## 🎯 Características Principales
 
